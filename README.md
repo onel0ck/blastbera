@@ -1,7 +1,4 @@
-# Blast Era Token Eligibility Checker
-
-Simple and efficient tool to check wallet addresses for Blast Era Token eligibility.
-
+# Blastbera Checker
 ## Contact & Support
 
 - Telegram Channel: [unluck_1l0ck](https://t.me/unluck_1l0ck)
